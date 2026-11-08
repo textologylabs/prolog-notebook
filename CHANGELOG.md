@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.11.1] — 2026-11-08
+
+The project has moved to the Textology Labs organisation, where its sibling tools already live.
+
+### Changed
+
+- **The repository is now [textologylabs/prolog-notebook](https://github.com/textologylabs/prolog-notebook).**
+  GitHub redirects the old address, so existing clones and links keep working. The package name
+  does not change, and nothing about installing or running it does.
+- **The live demo is now at [textologylabs.github.io/prolog-notebook](https://textologylabs.github.io/prolog-notebook/).**
+  Pages addresses do not redirect, so a bookmark to the old demo needs updating.
+
 ## [0.11.0] — 2026-09-08
 
 A book that cannot rot, and a loop that keeps up with you.
@@ -204,7 +216,7 @@ The authoring loop, end to end — and three things that were quietly wrong.
   4 answers were saved from a program that has since changed (lists) — re-run `execute`
   ```
 
-- **A live demo**, at [jarecsni.github.io/prolog-notebook](https://jarecsni.github.io/prolog-notebook/),
+- **A live demo**, at [textologylabs.github.io/prolog-notebook](https://textologylabs.github.io/prolog-notebook/),
   linked from the top of the README. Nobody could try this project without cloning it and
   starting a web server, which was a strange thing to ask when the pitch is "installs nothing".
 

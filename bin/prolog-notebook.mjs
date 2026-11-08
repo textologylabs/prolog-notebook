@@ -455,7 +455,7 @@ function manPage() {
     '.SH "SEE ALSO"',
     roffLine('prolog-notebook guide, for the same tour at a terminal.'),
     '.PP',
-    roffLine('https://github.com/jarecsni/prolog-notebook'),
+    roffLine('https://github.com/textologylabs/prolog-notebook'),
   );
   return `${out.join('\n')}\n`;
 }
