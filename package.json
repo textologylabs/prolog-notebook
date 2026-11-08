@@ -1,6 +1,6 @@
 {
   "name": "prolog-notebook",
-  "version": "0.11.0",
+  "version": "0.11.1",
   "description": "Jupyter-style notebooks for Prolog. Runs in the browser, installs nothing.",
   "type": "module",
   "main": "./src/node.js",
@@ -51,12 +51,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jarecsni/prolog-notebook.git"
+    "url": "git+https://github.com/textologylabs/prolog-notebook.git"
   },
   "bugs": {
-    "url": "https://github.com/jarecsni/prolog-notebook/issues"
+    "url": "https://github.com/textologylabs/prolog-notebook/issues"
   },
-  "homepage": "https://github.com/jarecsni/prolog-notebook#readme",
+  "homepage": "https://github.com/textologylabs/prolog-notebook#readme",
   "engines": {
     "node": ">=18"
   },

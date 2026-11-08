@@ -6,7 +6,7 @@
 > publishes it. Writing one is [the author's handbook](docs/authoring.md). See
 > [Status](#status) for what is not built yet.
 
-### → [Read a chapter and run it](https://jarecsni.github.io/prolog-notebook/ch04-cut/)
+### → [Read a chapter and run it](https://textologylabs.github.io/prolog-notebook/ch04-cut/)
 
 No install, no clone, no sign-up. Press **Run**, then **`; next`**, and watch the solutions
 arrive one at a time. Edit the program and consult your own version. The engine — SWI-Prolog
@@ -157,7 +157,7 @@ built from.
 ### Or from a checkout
 
 ```sh
-git clone https://github.com/jarecsni/prolog-notebook
+git clone https://github.com/textologylabs/prolog-notebook
 cd prolog-notebook
 npm install
 npm run dev            # serves the repo root on :8777
